@@ -1,0 +1,24 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.5.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "proyectonuevo" in publications use:'
+type: software
+license: GPL-2.0-or-later
+title: 'proyectonuevo: The Reproducible of the Project'
+version: 0.0.0.9000
+abstract: A paragraph providing a full description of the project (on several lines...)
+authors:
+- family-names: Valle-Campos
+  given-names: Andree
+  email: avallecam@gmail.com
+  orcid: https://orcid.org/0000-0002-7779-481X
+repository-code: https://github.com/avallecam/proyectonuevo
+url: https://github.com/avallecam/proyectonuevo
+contact:
+- family-names: Valle-Campos
+  given-names: Andree
+  email: avallecam@gmail.com
+  orcid: https://orcid.org/0000-0002-7779-481X
